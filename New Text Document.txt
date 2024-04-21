@@ -1,0 +1,41 @@
+Expected results 
+
+1)Login using Username and Password
+2)Click to Job tab, select Job Categories, Add the category as “Test Engineer” and delete the created categories.
+3)Click on organisation tab, select locations.
+4)Add the Locations, fill all the mandatory fields.
+5)Delete the create locations.
+6)Navigate to skill page from Admin->Qualification->Skills Page
+7)Add the skill named as “Testing Demo”.
+8)Delete the skill “Testing Demo”.
+9)Verify whether the skill is deleted successfully.
+10)Logout from the application.
+11)Close the browser.
+
+Edge browser results 
+
+1)Loging in successfully using Username and Password
+2)Clicking on Job tab, selecting Job Categories, Adding the category as “Test Engineer” and deleting the created category.
+3)Clicking on organisation tab, selecting locations.
+4)Adding the Location, filling all the mandatory fields.
+5)Deleting the created location.
+6)Navigating to skill page from Admin->Qualification->Skills Page
+7)Adding the skill named as “Testing Demo”.
+8)Deleting the skill “Testing Demo”.
+9)Verifying whether the skill is deleted successfully.
+10)Logging out from the application.
+11)Closing the browser.
+
+chrome browser results 
+
+1)Loging in successfully using Username and Password
+2)Clicking on Job tab, selecting Job Categories, Adding the category as “Test Engineer” and deleting the created category.
+3)Clicking on organisation tab, selecting locations.
+4)Adding the Location, filling all the mandatory fields.
+5)Deleting the created location.
+6)Navigating to skill page from Admin->Qualification->Skills Page
+7)Adding the skill named as “Testing Demo”.
+8)Deleting the skill “Testing Demo”.
+9)Verifying whether the skill is deleted successfully.
+10)Logging out from the application.
+11)Closing the browser.
